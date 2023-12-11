@@ -12,11 +12,6 @@
 - csv (odcztywanie etykiet)
 - sklearn (algorytmy uczenia maszynowego)
 
-## Podział plików:
-
-- ThirdVersion
-- draft (połączenie wcześniejszych wersji)
-
 ## Kod działa w:
 
 - [Google Colab (kliknij aby przejść)](https://colab.research.google.com/github/pansplawik/eegParkinsonCognitiveDisorders/blob/master/thirdVersion.ipynb)
@@ -25,16 +20,10 @@
 ## Wykorzystane algorytmy ML:
 
 - SVN
-- regresja linearna
+- k - nn
 - regresja logistyczna
 - random forest
 
-## DOdatkowe funkcje:
-
-- GridSearchCV
-- Walidacja krzyżowa
-- wizualizacja wyników
-
 ## Wyniki
 
-In progress...
+
